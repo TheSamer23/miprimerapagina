@@ -222,3 +222,7 @@ div span {
 }
     /* Aquí puedes escribir los estilos que se aplicarán en pantallas más pequeñas */
   }
+
+.greeting {
+    background-color: #ff8000;
+}
