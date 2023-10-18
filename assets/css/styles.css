@@ -221,8 +221,9 @@ div span {
     color: white;
 
 }
+
 .greeting {
-    background-color: red;
+    background-color: #ff0000;
 }
     /* Aquí puedes escribir los estilos que se aplicarán en pantallas más pequeñas */
   }
