@@ -175,6 +175,10 @@ div span {
     display: none;
 }
 
+.greeting {
+    background-color: #ff8000;
+}
+
 /* Estilos para pantallas más pequeñas (hasta 768px) */
 @media (max-width: 768px) {
 
@@ -219,15 +223,10 @@ div span {
 
 #check:checked ~ .checkbtn {
     color: white;
-
 }
 
 .greeting {
     background-color: #ff0000;
 }
     /* Aquí puedes escribir los estilos que se aplicarán en pantallas más pequeñas */
-  }
-
-.greeting {
-    background-color: #ff8000;
 }
