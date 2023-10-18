@@ -219,6 +219,10 @@ div span {
 
 #check:checked ~ .checkbtn {
     color: white;
+
+}
+.greeting {
+    background-color: red;
 }
     /* Aquí puedes escribir los estilos que se aplicarán en pantallas más pequeñas */
   }
